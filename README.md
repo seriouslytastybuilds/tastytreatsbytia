@@ -1,2 +1,2 @@
-# tastytreatsbytia
-Data drive for Tasty Treats by Tia
+# Tasty Treats by Tia
+Eventual location of Product Information & Ingredient Listings
